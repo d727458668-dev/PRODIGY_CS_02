@@ -1,4 +1,4 @@
-# PRODIGY_CS_02
+
 #  Advanced Image Encryption Tool
 
 The **Advanced Image Encryption Tool** is a desktop application built using **Python and Tkinter** that enables users to securely encrypt and decrypt images using a multi-layered encryption approach.
